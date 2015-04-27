@@ -64,7 +64,7 @@ ul.details li{
 	display:inline-block;
 }
 .header-banner{
-	background: url("../images/header-banner.jpg") no-repeat;
+	background: url("../images/ASUAerial2.png") no-repeat;
 	min-height: 860px;
 	background-size: cover;
 	-webkit-background-size: cover;
@@ -97,7 +97,7 @@ ul.details li {
 	font-weight: 400;
 	color: #fff;
 	font-size: 17px;
-	margin: 0 4em;
+	margin: 0 3em;
 	letter-spacing: 3px;
 }
 ul.details li a {
@@ -174,7 +174,7 @@ i.behance:hover{
 	bottom: 23%;
 }
 .about-section{
-	background:#524664;
+	background:#743F43;
 	padding:4em 0;
 }
 .about-section-head{
